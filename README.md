@@ -6,7 +6,7 @@ npm run develop
 
 ## Open GraphQL Playground
 
-http://localhost:8000/___graphq
+http://localhost:8000/___graphql
 
 ## Setup Notes
 
